@@ -1,2 +1,2 @@
-#ercantekoglan.com
-personal web page
+# ercantekoglan.com
+# personal web page
